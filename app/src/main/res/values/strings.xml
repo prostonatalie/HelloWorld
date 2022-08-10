@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="natalie_intro">Hello World! My name is Natalie. I do not own any pets, but I like how teacup puppies look.</string>
+    <string name="button_text">Say Hello</string>
+</resources>
